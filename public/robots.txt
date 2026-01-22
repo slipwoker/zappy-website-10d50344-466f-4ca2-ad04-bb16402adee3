@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yael-derdikman-ofir-md-phd-10d50344.zappy5.app/sitemap.xml
